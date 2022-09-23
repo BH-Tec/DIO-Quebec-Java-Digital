@@ -1,3 +1,9 @@
+/*
+Desafio 3
+Dado um inteiro positivo num, retorne o número de inteiros positivos menor ou igual a num cuja
+soma de dígitos é par. A soma dos dígitos de um inteiro positivo é a soma de todos os seus dígitos.
+*/
+
 import java.util.*;
  
 public class ContandoNumerosPares{ public static void main(String[] args){
